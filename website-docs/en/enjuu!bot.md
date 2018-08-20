@@ -8,7 +8,7 @@ __The prefix for every Command is eb:__
 
 Command | Description
 ------------ | -------------
-eb:recent <Player> | Shows the last play of the Player.
+eb:last <Player> | Shows the last play of the Player.
 eb:best <Player> | Shows the best play of the Player.
 eb:isonline <Player> | Checks if the Player is Online.
 eb:user <Player> | Shows the profile of the Player.
