@@ -34,7 +34,7 @@ LoliBot has some commands similar to Tillerino. Those commands work only if you 
 ### Admin commands
 - `!system restart` - Restart the server. Everyone will be disconnected and reconnected automatically  
 - `!system status` - Show server status  
-- `!system reload` - Reload bancho settings (the one that are editable from RAP)  
+- `!system reload` - Reload bancho settings (the one that are editable from EAP)  
 - `!system maintenance on/off` - Turn on/off bancho maintenance mode  
 - `!moderated on/off` - Turn on/off moderated mode for the current channel  
 - `!silence <username> <count> <unit (s/m/h/d)> <reason>` - Silence a user  
