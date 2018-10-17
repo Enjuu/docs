@@ -1,5 +1,5 @@
 ---
-title: "Can I translate this Docs to my language"
+title: "Can I translate these documents to my language?"
 old_id: 5
 ---
-You can check out our GitHub rep for all the documentation and make pull requests! But if you don't have GitHub you can send me a message (**Kazuki#0776**) and I can give you the full documentation to translate to your language. If you translate the full documentation you will recive the contributor role in our Discord!
+You can check out our GitHub repository for all the documentation and make pull requests! If you don't have a GitHub account, however, you can send me a message on Discord: **Kazuki#0776** and I can give you the full documentation so you can translate it to your language. If you translate the full documentation, you will receive the contributor role in our Discord!
