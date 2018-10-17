@@ -2,7 +2,7 @@
 title: "Enjuu!Bot (Discord) Commands"
 old_id: 2
 ---
-Enjuu has it's own Discord bot for displaying profiles or checking out best/recent plays on Enjuu. For anyone that doesn't know what commands the bot has to offer, here's a small introduction to the Enjuu!Bot.
+Enjuu has it's own Discord bot that can be used to display user profiles or for checking out a player's best/recent scores. For anyone that doesn't know what commands the bot has to offer, what they do and how they work, here's a small introduction on what the commands do and how to use them.
 
 __The prefix for every command is eb:__
 
