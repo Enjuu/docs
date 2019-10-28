@@ -1,5 +1,5 @@
 ---
-title: "Was kann ich machen wenn ich auto-restricted werde?"
+title: "Mein Account wurde automatisch gesperrt. Was kann ich tun?"
 old_id: 1
 ---
-Als erstes, nur Scores die 700pp+ überschreiten werden vom auto-restrict erfasst. Dies bezieht sich nur auf den osu! Spielmodus. Wenn dies passieren sollte schreibe **BaronVonAnime#0013** eine Nachicht, Falls du eine Verifizierter Spieler bist kannst du dich auch bei den anderen Admins melden. Falls du kein Discord besitzt schreibe eine Email an **baron@enjuu.click** aber er überprüft seine Emails nur jede Woche.
+Scores die 700pp überschreiten werden von unserem auto-restrict Systen erfasst und der Benutzer wird gesperrt. Dies bezieht sich nur auf den osu! Spielmodus. Sollte dir dies passieren, kannst du auf Discord eine Nachricht an **BaronVonAnime#0013** schreiben. Falls du durch uns bereits verifiziert wurdest, kannst du dich auch bei einem unserer anderen Admins melden. Falls du keinen Discord Account besitzt kannst du uns einfach eine Email an **baron@enjuu.click** schreiben, diese werden wöchentlich geprüft.

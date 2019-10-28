@@ -1,16 +1,15 @@
 ---
-title: "Was hat Donator für vorteile?"
+title: "Welche Vorteile erhalte ich als Donator?"
 old_id: 6
 ---
-Donator hat viele Vorteile aber Enjuu hat keine Funktion um dies automatisch zu machen. Normalerweise kostet Donator 3€ aber wir machen auch ab und zu Rabatte!
+Leider gibt es auf Enjuu noch kein automatisches System zum spenden, wende dich daher an einen Admin, wenn du spenden möchtest. Der Donator Rang kostet monatlich 3€, allerdings kann dieser Preis durch Sonderaktionen variieren.
+Mit dem Donator Rang erhälst du folgende Vorteile:
 
 ### Vorteile:
 - Gelber Name in Discord
 - Gelber Name im osu! Client
 - Veränderbarer Profil Hintergrund
-- Ein Donator Badge auf deinem Profil, aber nur wenn du kein Badge hast
+- Ein Donator Badge auf deinem Profil
 - Freundes Rangliste
-- Unendlich Score, Namen und Flaggen veränderungen
-- Ein selbst gestalltbares Badge
-**Was kann ich tun wenn ich Donaten möchte**
-Schreibe Kazuki oder Justen eine Nachicht!
+- Unendlich Score, Namen und Flaggen Veränderungen
+- Ein selbstgestalltbares Badge

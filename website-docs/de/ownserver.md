@@ -1,5 +1,5 @@
 ---
-title: "Könnt ihr helfen meinen eigenen osu!Server zu eröffnen?"
+title: "Könnt ihr mir helfen meinen eigenen osu!Server zu eröffnen?"
 old_id: 7
 ---
-Nein, wir sind kein Support Server fürs eröffnen von osu! Servern, viele Leute haben schon gefragt wie man Ripple auf einem Server installiert, wir sind nicht Ripple ¯\_(ツ)_/¯
+Nein, es tut uns leid, aber wir sind kein Support für das Eröffnen von osu! Servern. Wir wurden schon von mehreren Leuten gefragt, wie man Ripple auf einem Server installiert, alle bekamen die selbe Antwort: Wir sind nicht Ripple ¯\_(ツ)_/¯
