@@ -6,7 +6,7 @@ These are the commands supported by LoliBot, our chat bot.
 
 ### General commands
 - `!roll` - Returns a random number from 0 to 100  
-- `!roll num` - Returns a random number from 0 to num  
+- `!roll n` - Returns a random number from 0 to n  
 - `!help` - Display help message  
 - `!pp [mode]` - Show your current pp. If `mode` is not present, LoliBot will tell you the amount of PP for your current game mode. If mode is present (it can be `std/taiko/ctb/mania`), LoliBot will tell you the amount of PP for that gamemode. **This command works only in PMs**
 - `!update` - Update the beatmapset you've `/np`ed in our beatmap mirror. Use this if you've just downloaded a beatmap from osu!direct and it shows as outdated or if a beatmap can't be downloaded from osu!direct because it's too new.

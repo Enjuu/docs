@@ -12,4 +12,4 @@ eb:last <Player> | Shows the most recent score for the player.
 eb:best <Player> | Shows the best score for the player.
 eb:isonline <Player> | Checks if the player is online.
 eb:user <Player> | Shows the profile of the player.
-eb:invite <Player> | Invites this bot to your server.
+eb:invite <Player> | Invites this bot to a server.
